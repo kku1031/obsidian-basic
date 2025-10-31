@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "일일노트/2025-10-23.md",
+                "file": "일일노트/2025-10-31.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-10-23"
+              "title": "2025-10-31"
             }
           },
           {
@@ -198,9 +198,33 @@
               "icon": "lucide-file",
               "title": "2025-10-30"
             }
+          },
+          {
+            "id": "4c429fd2c4e0788d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일일노트/2025-10-31.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-10-31"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -350,10 +374,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "551e52bf91b6d8c2",
+  "active": "268192a1c8870b8e",
   "lastOpenFiles": [
-    "일일노트/2025-10-29.md",
+    "일일노트/2025-10-01.md",
+    "일일노트/2025-10-14.md",
+    "일일노트/2025-10-13.md",
+    "일일노트/2025-10-31.md",
     "일일노트/2025-10-30.md",
+    "파일/Pasted image 20251031101414.png",
+    "파일/Pasted image 20251031101220.png",
+    "일일노트/2025-10-23.md",
+    "파일/Pasted image 20251031100533.png",
+    "파일/Pasted image 20251031094546.png",
+    "파일/Pasted image 20251031094543.png",
+    "일일노트/무제.md",
+    "일일노트/2025-10-29.md",
     "파일/Pasted image 20251030113729.png",
     "파일/Pasted image 20251030110823.png",
     "파일/Pasted image 20251030110548.png",
@@ -362,21 +397,12 @@
     "2025-10-13.md",
     "일일노트/2025-10-21.md",
     "일일노트/2025-10-22.md",
-    "일일노트/2025-10-23.md",
     "일일노트/2025-10-24.md",
     "일일노트/2025-10-27.md",
     "파일/Pasted image 20251029153419.png",
-    "파일/Pasted image 20251029145435.png",
-    "파일/Pasted image 20251029144855.png",
-    "파일/Pasted image 20251029122011.png",
-    "파일/Pasted image 20251029121348.png",
-    "파일/Pasted image 20251029121343.png",
     "템플릿/오늘 공부 기록.md",
     "Untitled.canvas",
     "일일노트/2025-09-30.md",
-    "일일노트/2025-10-01.md",
-    "일일노트/2025-10-13.md",
-    "일일노트/2025-10-14.md",
     "일일노트/2025-10-15.md",
     "일일노트/2025-10-20.md",
     "일일노트/2025-10-17.md",
@@ -388,8 +414,6 @@
     "일일노트",
     "파일",
     "테스트/asdsad.md",
-    "테스트/asdsd.md",
-    "첫 메모와 연결할 파일.md",
     "무제.base",
     "무제.canvas",
     "무제 2.base",
