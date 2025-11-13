@@ -8,198 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "52c3c8a33834d128",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "일일노트/2025-11-04.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-04"
-            }
-          },
-          {
-            "id": "f547485220fe0df5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "일일노트/2025-11-05.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-05"
-            }
-          },
-          {
-            "id": "74f66cd09732b5ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "일일노트/2025-11-06.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-06"
-            }
-          },
-          {
-            "id": "7945bc3b9f0f753f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "일일노트/2025-11-06.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-06"
-            }
-          },
-          {
-            "id": "975230c8f13f3e12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "일일노트/2025-11-07.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-07"
-            }
-          },
-          {
-            "id": "21b6b5f98dbbf33d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "일일노트/2025-11-10.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-10"
-            }
-          },
-          {
-            "id": "b428e85b77e73f12",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "일일노트/2025-11-11.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-11"
-            }
-          },
-          {
-            "id": "7a1becb1d036656a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "일일노트/2025-11-12.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2025-11-12"
-            }
-          },
-          {
             "id": "8e44cae98657c4e9",
             "type": "leaf",
             "state": {
@@ -222,9 +30,33 @@
               "icon": "lucide-file",
               "title": "2025-11-12"
             }
+          },
+          {
+            "id": "6e367ffc0ae79527",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일일노트/2025-11-13.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-13"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -374,24 +206,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e44cae98657c4e9",
+  "active": "6e367ffc0ae79527",
   "lastOpenFiles": [
+    "파일/Pasted image 20251113121649.png",
+    "파일/20251113_104030[1].jpg",
+    "파일/Pasted image 20251113105611.png",
+    "일일노트/2025-11-12.md",
+    "일일노트/2025-11-13.md",
+    "일일노트/2025-11-11.md",
+    "파일/Pasted image 20251113100535.png",
+    "파일/Pasted image 20251113094955.png",
+    "일일노트/2025-11-10.md",
+    "일일노트/2025-11-07.md",
+    "일일노트/2025-11-06.md",
+    "일일노트/2025-11-05.md",
     "파일/Pasted image 20251112115918.png",
     "파일/Pasted image 20251112114954.png",
-    "일일노트/2025-11-11.md",
-    "일일노트/2025-11-12.md",
     "파일/Pasted image 20251112094027.png",
     "파일/Pasted image 20251111121907.png",
     "파일/Pasted image 20251111121709.png",
     "파일/Pasted image 20251111120934.png",
-    "파일/Pasted image 20251111120830.png",
-    "파일/Pasted image 20251111115616.png",
-    "파일/Pasted image 20251111115142.png",
-    "파일/Pasted image 20251111110658.png",
-    "파일/Pasted image 20251111110100.png",
-    "일일노트/2025-11-10.md",
     "템플릿/오늘 공부 기록.md",
-    "일일노트/2025-11-07.md",
     "일일노트/2025-10-24.md",
     "일일노트/2025-10-23.md",
     "일일노트/2025-10-22.md",
@@ -404,14 +239,11 @@
     "일일노트/2025-10-16.md",
     "일일노트/2025-10-17.md",
     "일일노트/2025-10-20.md",
-    "일일노트/2025-11-06.md",
-    "일일노트/2025-11-05.md",
     "일일노트/2025-11-03.md",
     "일일노트/2025-11-04.md",
     "일일노트/2025-10-30.md",
     "일일노트/2025-10-31.md",
     "일일노트/2025-10-29.md",
-    "일일노트/2025-10-28.md",
     "Untitled.canvas",
     "일일노트",
     "파일",
