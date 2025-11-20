@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "일일노트/2025-11-19.md",
+                "file": "일일노트/2025-11-20.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2025-11-19"
+              "title": "2025-11-20"
+            }
+          },
+          {
+            "id": "247d806b7cec1963",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "일일노트/2025-11-10.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2025-11-10"
             }
           }
         ],
@@ -184,7 +208,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "어나니",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -304,9 +328,16 @@
   },
   "active": "ffb7c24673627371",
   "lastOpenFiles": [
-    "전략패턴/Zustand Store 전략 문서.md",
+    "템플릿/오늘 공부 기록.md",
+    "일일노트/2025-11-20.md",
     "일일노트/2025-11-19.md",
-    "일일노트/무제.md",
+    "파일/Pasted image 20251120124706.png",
+    "파일/Pasted image 20251120115032.png",
+    "파일/Pasted image 20251120112339.png",
+    "일일노트/2025-11-10.md",
+    "일일노트/2025-11-12.md",
+    "일일노트/2025-11-11.md",
+    "전략패턴/Zustand Store 전략 문서.md",
     "전략패턴",
     "파일/Pasted image 20251119112125.png",
     "일일노트/2025-11-18.md",
@@ -320,14 +351,8 @@
     "파일/20251118_130037.jpg",
     "파일/20251118_130050.jpg",
     "파일/Pasted image 20251118133805.png",
-    "파일/Pasted image 20251118133516.png",
-    "파일/Pasted image 20251118120437.png",
-    "파일/Pasted image 20251118115930.png",
     "일일노트/무제 1.md",
     "일일노트/2025-11-14.md",
-    "일일노트/2025-11-10.md",
-    "일일노트/2025-11-12.md",
-    "일일노트/2025-11-11.md",
     "일일노트/2025-10-30.md",
     "일일노트/2025-10-21.md",
     "일일노트/2025-10-20.md",
@@ -337,10 +362,8 @@
     "일일노트/2025-11-07.md",
     "일일노트/2025-11-06.md",
     "일일노트/2025-11-05.md",
-    "템플릿/오늘 공부 기록.md",
     "일일노트/2025-10-24.md",
     "일일노트/2025-09-30.md",
-    "일일노트/2025-10-13.md",
     "Untitled.canvas",
     "일일노트",
     "파일",
